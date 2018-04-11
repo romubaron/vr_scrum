@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{A5A9CB15-9E43-6A12-DDCF-C3CB5EFC9D97}</ProjectGuid>
+    <ProjectGuid>{87B681AE-1073-0EC0-6ABB-E2C81917BDCF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -124,9 +124,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="tuto.csproj">
-      <Project>{6F8641C1-12A1-0E6E-D8A1-28CC4DEEB809}</Project>
-      <Name>tuto</Name>
+    <ProjectReference Include="VR_Scrum.csproj">
+      <Project>{957A0B88-E8C0-8191-2C0C-C1D750DA960E}</Project>
+      <Name>VR_Scrum</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

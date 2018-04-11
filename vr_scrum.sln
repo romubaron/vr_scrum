@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR_Scrum", "VR_Scrum.csproj", "{957A0B88-E8C0-8191-2C0C-C1D750DA960E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR_Scrum.Editor", "VR_Scrum.Editor.csproj", "{87B681AE-1073-0EC0-6ABB-E2C81917BDCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{957A0B88-E8C0-8191-2C0C-C1D750DA960E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957A0B88-E8C0-8191-2C0C-C1D750DA960E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957A0B88-E8C0-8191-2C0C-C1D750DA960E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957A0B88-E8C0-8191-2C0C-C1D750DA960E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B681AE-1073-0EC0-6ABB-E2C81917BDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B681AE-1073-0EC0-6ABB-E2C81917BDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B681AE-1073-0EC0-6ABB-E2C81917BDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B681AE-1073-0EC0-6ABB-E2C81917BDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
