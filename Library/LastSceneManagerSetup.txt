@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Main.unity
+- path: D:/Project/Flat Visiting/Cupi Flat/Assets/Cupi New Home.unity
   isLoaded: 1
   isActive: 1
